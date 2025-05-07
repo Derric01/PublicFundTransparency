@@ -128,5 +128,5 @@ MIT
 
 Made with ❤️ by Team Vikasana
 
-Feel free to contribute or fork the project!
+Feel free to contribute or fork the project.!
 ```
